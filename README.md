@@ -24,7 +24,7 @@ The Process Viewer is a Bash script that shows all running processes on a Linux 
 ```
 python3 system_resource_monitor.py
 ```
-The script will start monitoring the system resources and will continuously print the resource usage information in the terminal. To stop the program, press Ctrl + C. The script will then generate a graph of the resource usage data.
+The script will start monitoring the system resources and will continuously print the resource usage information in the terminal. To stop the program, press Ctrl + C. 
 
 3. To run the Process Viewer, simply execute the process_viewer.sh script in a terminal.
 
