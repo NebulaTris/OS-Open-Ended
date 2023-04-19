@@ -9,6 +9,9 @@ The System Resource Monitor is a Python script that identifies the current avail
 ## Process Viewer
 The Process Viewer is a Bash script that shows all running processes on a Linux system at the time it boots up. The script uses the ps command to display the process information, and the output is sorted by the process ID. The script can be executed in the terminal or added to the system startup to automatically display the running processes on boot.
 
+## Outputs
+Outputs for these scripts is in the <a href ="https://github.com/NebulaTris/OS-Open-Ended/tree/main/Outputs_Reference">Outputs_Reference folder</a>
+
 ## Prerequisites
 - Python 3 or later
 - psutil module for Python (install using pip install psutil)
